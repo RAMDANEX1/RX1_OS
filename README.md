@@ -31,7 +31,7 @@ cmake ..
 make
 
 # Nettoyer !
-make clean_all
+make clean_all .
 ```
 
 ## 📁 Structure du Projet
