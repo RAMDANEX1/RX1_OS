@@ -30,7 +30,7 @@ mkdir build && cd build
 cmake ..
 make
 
-# Nettoyer
+# Nettoyer !
 make clean_all
 ```
 
