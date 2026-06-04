@@ -21,7 +21,7 @@
 ## ⚡ Démarrage rapide
 
 ```bash
-# Cloner et configurer
+# Cloner et configurer!
 git clone <repository>
 cd RX1_OS
 
