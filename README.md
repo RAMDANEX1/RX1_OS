@@ -22,7 +22,7 @@
 
 ```bash
 # Cloner et configurer!
-git clone <repository>
+git clone <repository>   .
 cd RX1_OS
 
 # Compiler
